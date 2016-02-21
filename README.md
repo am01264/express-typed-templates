@@ -30,8 +30,7 @@ app.use(typedTemplates({
 
   /* Content-Types are the keys.
      They can be the full "application/json" etc, but not necessary as we use
-     [Request.accepts()](http://devdocs.io/express/index#req.accepts) to
-     determine the template engine to use. */
+     Request.accepts() to determine the template engine to use. */
   'json': 'ejs',
 
   /* Template engines are the values.
