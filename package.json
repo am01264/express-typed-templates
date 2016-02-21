@@ -1,6 +1,6 @@
 {
   "name": "express-typed-templates",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "*For Express* With minimal config, selects the best template matching a requested response type.",
   "main": "index.js",
   "scripts": {
