@@ -1,0 +1,28 @@
+{
+  "name": "express-typed-templates",
+  "version": "0.0.1",
+  "description": "*For Express* With minimal config, selects the best template matching a requested response type.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/am01264/express-typed-templates.git"
+  },
+  "keywords": [
+    "express",
+    "content-type",
+    "accepts",
+    "headers",
+    "template-engine",
+    "template",
+    "response"
+  ],
+  "author": "Andrew McAuley <andrew.mcauley@outlook.com> (http://andrewmcauley.co.uk/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/am01264/express-typed-templates/issues"
+  },
+  "homepage": "https://github.com/am01264/express-typed-templates#readme"
+}
